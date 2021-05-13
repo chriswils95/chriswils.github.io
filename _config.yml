@@ -22,7 +22,7 @@ title: Christopher Wilson CCL Site
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chriswils95.github.io/chriswils.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chriswils95.github.io/chriswils.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
   pages:
