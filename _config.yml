@@ -23,7 +23,7 @@ title: Christopher Wilson IMMERSE's Site
 port: 4004
 
 baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://github.com/chriswils95/chriswils.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chriswils.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
   pages:
