@@ -18,18 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-<<<<<<< HEAD
-title: Christopher Wilson IMMERSE's Site
-
-port: 8005
-
-baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://github.com/chriswils95/chriswils.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-=======
 title: Christopher Wilson CCL Site
 baseurl: "https://chriswils95.github.io/chriswils.github.io" # the subpath of your site, e.g. /blog
 url: "https://chriswils95.github.io/chriswils.github.io" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> f9dd95e72cb6595fa74a43919b97dc9917b3cd84
 
 collections:
   pages:
