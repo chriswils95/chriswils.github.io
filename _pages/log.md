@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMMERSE Log
+title: Weekly Report
 ---
 
 ### Week 1: May 10, 2021
