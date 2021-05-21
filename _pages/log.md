@@ -5,8 +5,11 @@ title: Weekly Report
 
 ### Week 1: May 10, 2021
 Goals For the Week
-* **Monday**: Work on the LLVM Riscv Backend, provide suitable log files to Garret
-* **Tuesday**: Work on the LLVM Riscv Backend
+* Understand LLVM RISCV Backend 
+* Back up all important files to FPGA server
+* Fix memory issues and be able to test the LLVM passes
+
+Daily Progress
 
 * **Monday**: Work on the LLVM Riscv Backend, provide suitable log files to Garret
 * **Tuesday**: Work on the LLVM Riscv Backend
