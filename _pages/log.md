@@ -4,9 +4,7 @@ title: Weekly Report
 ---
 
 ### Week 1: May 10, 2021
-<div class="text-purple">
-   Goals For the Week
-</div>
+<div class="text-purple text-inherit">Goals For the Week </div>
 * Understand LLVM RISCV Backend 
 * Back up all important files to FPGA server
 * Fix memory issues and be able to test the LLVM passes
