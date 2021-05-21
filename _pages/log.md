@@ -18,6 +18,12 @@ Daily Progress
 * **Friday**: Work on the LLVM Riscv Backend
 
 ### Week 2: April 26, 2021
+Goals For the Week
+* Finished LLVM Riscv Backend
+* At least finished and test the microblaze server for the Nexys 4 DDR Board
+* Create a tutorial on LLVM RISV Backend possibly a github page
+
+Daily Progress
 
 * **Monday**: Back up desktop to the FPGA Server, Work on the LLVM Riscv Backend
 * **Tuesday**: Meet with Dr Goeders on key differences between
