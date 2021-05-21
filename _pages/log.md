@@ -4,6 +4,9 @@ title: Weekly Report
 ---
 
 ### Week 1: May 10, 2021
+Goals For the Week
+* **Monday**: Work on the LLVM Riscv Backend, provide suitable log files to Garret
+* **Tuesday**: Work on the LLVM Riscv Backend
 
 * **Monday**: Work on the LLVM Riscv Backend, provide suitable log files to Garret
 * **Tuesday**: Work on the LLVM Riscv Backend
