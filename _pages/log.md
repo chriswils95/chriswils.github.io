@@ -3,6 +3,34 @@ layout: default
 title: Weekly Report
 ---
 
+### Week 2: April 7, 2021
+
+Goals For the Week
+
+- Finished Analysis
+- Participate on Shrec Seminar
+- Finished Microblaze tests
+
+Daily Progress
+
+- **Monday**: Meet with Andy, update readme and edit microblaze block diagrams
+
+
+### Week 2: May 31, 2021
+
+Goals For the Week
+
+- Work on Fault Injection Analysis
+- Work on Microblaze
+
+Daily Progress
+
+- **Monday**: Meet with Andy, and continue working on the single bit Analysis
+- **Tuesday**: 
+- **Wednesday**: Attend Radiation Seminars and work on microblaze
+- **Thursday**: Create Histograms of the Up Time and nearest neighbor and create more python scrits for the cycles Analysis
+- **Friday**: Finished off all python scripts and histograms and focus on the readme
+
 ### Week 2: May 24, 2021
 
 Goals For the Week
