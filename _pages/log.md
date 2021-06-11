@@ -14,7 +14,10 @@ Goals For the Week
 Daily Progress
 
 - **Monday**: Meet with Andy, update readme and edit microblaze block diagrams
-
+- **Tuesday**: Participate in Radiation Seminars and Work on the Microblaze,
+  Work on Internet issue with Garrett
+- **Wednesday**: Participate on Shrec Seminar
+- **Thursday**: Finshed echo server tests, DRAM tests, work on PentaLinux booting issues.
 
 ### Week 2: May 31, 2021
 
@@ -26,7 +29,7 @@ Goals For the Week
 Daily Progress
 
 - **Monday**: Meet with Andy, and continue working on the single bit Analysis
-- **Tuesday**: 
+- **Tuesday**:
 - **Wednesday**: Attend Radiation Seminars and work on microblaze
 - **Thursday**: Create Histograms of the Up Time and nearest neighbor and create more python scrits for the cycles Analysis
 - **Friday**: Finished off all python scripts and histograms and focus on the readme
