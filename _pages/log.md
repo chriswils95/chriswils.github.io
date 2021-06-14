@@ -2,8 +2,19 @@
 layout: default
 title: Weekly Report
 ---
+### Week 6: April 14, 2021
 
-### Week 2: April 7, 2021
+Goals For the Week
+
+- Finished Analysis
+- Participate on Shrec Seminar
+- Finished Microblaze tests
+
+Daily Progress
+
+- **Monday**: Meet with Andy, update readme and work on tftp boot
+
+### Week 5: April 7, 2021
 
 Goals For the Week
 
@@ -18,8 +29,9 @@ Daily Progress
   Work on Internet issue with Garrett
 - **Wednesday**: Participate on Shrec Seminar
 - **Thursday**: Finshed echo server tests, DRAM tests, work on PentaLinux booting issues.
+- **Friday**: Finished microblaze and petalinux
 
-### Week 2: May 31, 2021
+### Week 4: May 31, 2021
 
 Goals For the Week
 
@@ -34,7 +46,7 @@ Daily Progress
 - **Thursday**: Create Histograms of the Up Time and nearest neighbor and create more python scrits for the cycles Analysis
 - **Friday**: Finished off all python scripts and histograms and focus on the readme
 
-### Week 2: May 24, 2021
+### Week 3: May 24, 2021
 
 Goals For the Week
 
