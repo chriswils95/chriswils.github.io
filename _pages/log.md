@@ -14,11 +14,11 @@ Goals For the Week
 Daily Progress
 
 - **Monday**: Meet with Andy, update readme and work on tftp boot
-- **Tuesday**: Participate in Radiation Seminars and U-boot issues
+- **Tuesday**: Participate in Radiation Seminars and work on U-boot issues
 - **Wednesday**: Meet with Andy, participate on NASA NEPP Program,
   Work on U-boot issues.
 - **Thursday**: Create custom linux image for the Nexys Video board,
-  work on NEPP Issues.
+  work on U-boot Issues.
 
 ### Week 5: June 7, 2021
 
