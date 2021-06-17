@@ -2,7 +2,8 @@
 layout: default
 title: Weekly Report
 ---
-### Week 6: April 14, 2021
+
+### Week 6: June 14, 2021
 
 Goals For the Week
 
@@ -13,8 +14,13 @@ Goals For the Week
 Daily Progress
 
 - **Monday**: Meet with Andy, update readme and work on tftp boot
+- **Tuesday**: Participate in Radiation Seminars and U-boot issues
+- **Wednesday**: Meet with Andy, participate on NASA NEPP Program,
+  Work on U-boot issues.
+- **Thursday**: Create custom linux image for the Nexys Video board,
+  work on NEPP Issues.
 
-### Week 5: April 7, 2021
+### Week 5: June 7, 2021
 
 Goals For the Week
 
