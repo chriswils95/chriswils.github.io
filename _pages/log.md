@@ -7,9 +7,9 @@ title: Weekly Report
 
 Goals For the Week
 
-- Finished Analysis
-- Participate on Shrec Seminar
-- Finished Microblaze tests
+- Finished Microblaze Design
+- Put PentaLinux on both Nexys 4 ddr and Nexys Video board
+- Boot Drhystone
 
 Daily Progress
 
