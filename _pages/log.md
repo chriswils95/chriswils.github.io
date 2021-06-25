@@ -3,6 +3,21 @@ layout: default
 title: Weekly Report
 ---
 
+### Week 7: June 21, 2021
+
+Goals For the Week
+
+- Finished Analysis
+- Finished Microblaze PetaLinux Tutorial
+- Run Dhrystone/ Coremark on PetaLinux Image
+
+Daily Progress
+
+- **Monday**: Work on PetaLinux UImage size issues.
+- **Tuesday**: Meet with Garrett, and finished Analysis
+- **Wednesday**: Work on PetaLinux Tutorial and UImage size issues
+- **Thursday**: Work on Testing Dhrystone and Coremark on PetaLinux.
+
 ### Week 6: June 14, 2021
 
 Goals For the Week
@@ -19,6 +34,7 @@ Daily Progress
   Work on U-boot issues.
 - **Thursday**: Create custom linux image for the Nexys Video board,
   work on U-boot Issues.
+- **Friday**: Work on PetaLinux UImage size issues.
 
 ### Week 5: June 7, 2021
 
