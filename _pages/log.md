@@ -3,6 +3,21 @@ layout: default
 title: Weekly Report
 ---
 
+### Week 8: June 28, 2021
+
+Goals For the Week
+
+- Finished Microblaze PetaLinux Tutorial
+- Finished VexRiscv and VexRiscv Tutorial
+- Run Dhrystone/ Coremark on PetaLinux Image
+
+Daily Progress
+
+- **Monday**: Worked on VexRiscv
+- **Tuesday**: Finished SD Card Boot up on VexRiscv
+- **Wednesday**: Finished custom file systems on vexriscv and Finsihed VexRiscv
+- **Thursday**: Finished all tutorials
+
 ### Week 7: June 21, 2021
 
 Goals For the Week
@@ -17,6 +32,7 @@ Daily Progress
 - **Tuesday**: Meet with Garrett, and finished Analysis
 - **Wednesday**: Work on PetaLinux Tutorial and UImage size issues
 - **Thursday**: Work on Testing Dhrystone and Coremark on PetaLinux.
+- **Friday**: Finished PetaLinux.
 
 ### Week 6: June 14, 2021
 
