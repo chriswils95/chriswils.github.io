@@ -3,6 +3,21 @@ layout: default
 title: Weekly Report
 ---
 
+### Week 9: July 5, 2021
+
+Goals For the Week
+
+- Finished Dhrystone Scripts VexRiscv
+- Finished at aleast two Benchmarks on both the VexRiscv and Microblaze
+
+Daily Progress
+
+- **Monday**: Get Dhrystone running on VexRiscv
+- **Tuesday**: Get Coremark running on Microblaze PetaLinux
+- **Wednesday**: Debug segmentation faults issues with Coremark on Vexriscv, and Stream
+  benchmark on both the VexRiscv and Microblaze design
+- **Thursday**: Work on cross compilation issues for the stream benchmark.
+
 ### Week 8: June 28, 2021
 
 Goals For the Week
@@ -17,6 +32,7 @@ Daily Progress
 - **Tuesday**: Finished SD Card Boot up on VexRiscv
 - **Wednesday**: Finished custom file systems on vexriscv and Finsihed VexRiscv
 - **Thursday**: Finished all tutorials
+- **Friday**: Edit the tutorials, and fix any design issues
 
 ### Week 7: June 21, 2021
 
