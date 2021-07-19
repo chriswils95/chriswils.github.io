@@ -3,6 +3,20 @@ layout: default
 title: Weekly Report
 ---
 
+### Week 9: July 12, 2021
+
+Goals For the Week
+
+- Finished All Benchmarks
+
+Daily Progress
+
+- **Monday**: Get Linux running on the Nexys Video board via SD Card
+- **Tuesday**: Get Coremark working on Microblaze
+- **Wednesday**: Get Stream Benchmark working on Microblaze
+- **Thursday**: Troubleshoot segmentation faults on Vexriscv processor.
+- **Friday**: Continue troubleshooting segmentation faults on vexriscv processors
+
 ### Week 9: July 5, 2021
 
 Goals For the Week
@@ -17,6 +31,7 @@ Daily Progress
 - **Wednesday**: Debug segmentation faults issues with Coremark on Vexriscv, and Stream
   benchmark on both the VexRiscv and Microblaze design
 - **Thursday**: Work on cross compilation issues for the stream benchmark.
+- **Friday**: Finished Dhrystone on both processors.
 
 ### Week 8: June 28, 2021
 
