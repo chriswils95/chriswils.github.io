@@ -3,6 +3,32 @@ layout: default
 title: Weekly Report
 ---
 
+### Week 9: July 19, 2021
+
+Goals For the Week
+
+- Get GCC installed on the Vexriscv Linux image(if possible)
+
+Daily Progress
+
+- **Monday**:
+
+### Week 9: July 19, 2021
+
+Goals For the Week
+
+- Debugged VexRiscv Benchmarks
+
+Daily Progress
+
+- **Monday**: Discover clock timing issues on VexRiscv
+- **Tuesday**: Debugged clock timing issues by trying different clock functions.
+- **Wednesday**: Debugged issues with Nexys Video clock speed and raise a issue
+  on website.
+- **Thursday**: Debugged clock timing issues by trying a timer, and other methods.
+- **Friday**: Try different linux image to see if clock timing issues persists and continue
+  debugging.
+
 ### Week 9: July 12, 2021
 
 Goals For the Week
