@@ -3,6 +3,21 @@ layout: default
 title: Weekly Report
 ---
 
+### Week 9: August 02, 2021
+
+Goals For the Week
+
+- Get GCC installed on the Vexriscv Linux image(if possible).
+- Finished VexRiscv 50 Mhz clock issues
+
+Daily Progress
+
+- **Monday**: Debugging gcc install on vexriscv
+- **Tuesday**: Debugging gcc install on vexriscv.
+- **Wednesday**: Debugged issues with Nexys Video clock speed.
+- **Friday**:
+  for review.
+
 ### Week 9: July 26, 2021
 
 Goals For the Week
